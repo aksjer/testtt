@@ -8,6 +8,12 @@
   dependencies:
     tslib "^1.7.1"
 
+"@angular/cdk@^2.0.0-beta.8":
+  version "2.0.0-beta.8"
+  resolved "https://registry.yarnpkg.com/@angular/cdk/-/cdk-2.0.0-beta.8.tgz#71961c851dfbeb19e085e898bf5e4461408f8b57"
+  dependencies:
+    tslib "^1.7.1"
+
 "@angular/cli@1.2.7":
   version "1.2.7"
   resolved "https://registry.yarnpkg.com/@angular/cli/-/cli-1.2.7.tgz#dd20e8b0da24af5359077c05a6944823cb764132"
@@ -118,6 +124,12 @@
   version "4.3.3"
   resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-4.3.3.tgz#638cfca1342c394f713f8c0fa398c26032e156f4"
 
+"@angular/material@^2.0.0-beta.8":
+  version "2.0.0-beta.8"
+  resolved "https://registry.yarnpkg.com/@angular/material/-/material-2.0.0-beta.8.tgz#a92852abc9261aea26c2401f576645470be2cf38"
+  dependencies:
+    tslib "^1.7.1"
+
 "@angular/platform-browser-dynamic@^4.0.0":
   version "4.3.3"
   resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-4.3.3.tgz#b16c09dfe97b5b83daa0581b233f5ea3c3eefb3a"
@@ -141,6 +153,30 @@
   resolved "https://registry.yarnpkg.com/@angular/tsc-wrapped/-/tsc-wrapped-4.3.3.tgz#c5890f743664be64b79c200ae6e9da5d2a801f5b"
   dependencies:
     tsickle "^0.21.0"
+
+"@ngrx/core@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/core/-/core-1.2.0.tgz#882b46abafa2e0e6d887cb71a1b2c2fa3e6d0dc6"
+
+"@ngrx/effects@^4.0.2":
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/@ngrx/effects/-/effects-4.0.2.tgz#31d6d14b1ca2380b5be061e91d9a0edb0f0f27c7"
+
+"@ngrx/router-store@^4.0.2":
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/@ngrx/router-store/-/router-store-4.0.2.tgz#787c9fe3af60f5f9318ed80d3f8c8ac2601b94da"
+
+"@ngrx/store-devtools@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/store-devtools/-/store-devtools-4.0.0.tgz#b79c24773217df7fd9735ad21f9cbf2533c96e04"
+
+"@ngrx/store-log-monitor@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@ngrx/store-log-monitor/-/store-log-monitor-3.0.2.tgz#951dc2e3d8ba0113ea4ed6744d9ce7640fee3271"
+
+"@ngrx/store@^4.0.2":
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/@ngrx/store/-/store-4.0.2.tgz#bd0388f0444a78b87059738274a3d3b5cc43e402"
 
 "@ngtools/json-schema@1.1.0":
   version "1.1.0"

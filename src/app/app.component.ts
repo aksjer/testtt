@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+
+  sidenavItems = [
+    { text: 'Dashboard', path: '/dashboard' },
+    { text: 'Customer', path: '/customer' },
+  ];
+
 }
